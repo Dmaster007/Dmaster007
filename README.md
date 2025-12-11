@@ -35,13 +35,13 @@
 
 - 🔭 I’m currently open to a new Job
 
-- 🌱 I’m currently learning **Devops**
+- 🌱 I’m currently learning **Devops, Integrations, Machine learning**
 
-- 👨‍💻 All of my projects are available at [supun's workspace](http://supun.traditionalme.life)
+- 👨‍💻 All of my projects are available at [My Portfolio](http://wwww.durgeshagrawal.me)
 
-- 💬 Ask me about **Java, Python, PHP and NodeJS**
+- 💬 Ask me about **C++, Python, Javascript and NodeJS**
 
-- 📫 How to reach me **supunnanayakkara01@gmail.com**
+- 📫 How to reach me **durgesh3103@gmail.com**
 
 - 📄 Know about my experiences [my experiences](http://supun.traditionalme.life/#resume)
 
@@ -65,7 +65,7 @@
 - Backend
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=php,laravel,java,nodejs,py,spring,flask,fastapi,express,nestjs" />
+    <img src="https://skillicons.dev/icons?i=nodejs,py,graphql,flask,fastapi,express,nestjs,django,firebase,supabase" />
   </a>
 </p>
 
@@ -93,7 +93,7 @@
 - Tools
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,docker,figma,xd,idea,vscode,postman,linux" />
+    <img src="https://skillicons.dev/icons?i=git,github,docker,figma,xd,idea,vscode,postman,linux,obsidian" />
   </a>
 </p>
 
@@ -107,11 +107,11 @@
 <img src="https://media.tenor.com/0ENB5HuTH0gAAAAi/trophy-beker.gif"  width="100px" height="100px"></p>
   
 <div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=supuna97&theme=matrix&no-bg=true&no-frame=true&row=1&column=4&title=MultiLanguage,Commits,PullRequest,Reviews">
+<img src="[![trophy](https://github-profile-trophy.vercel.app/?username=dmaster007&theme=onedark)](https://github.com/dmaster007/github-profile-trophy)">
  </div>
 
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=supuna97&theme=matrix&no-bg=true&no-frame=true&row=1&column=4&title=Repositories,Organizations,Stars,Followers">
+<!-- <div align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=dmaster007&theme=matrix&no-bg=true&no-frame=true&row=1&column=4&title=Repositories,Organizations,Stars,Followers"> -->
  </div>
  <br><br>
 
