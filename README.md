@@ -48,7 +48,13 @@
 - ⚡ Fun fact **I think I'm funny**
 
 <br>
+
+<ahref="https://app.daily.dev/dmmaster007"><img align="center" src="https://api.daily.dev/devcards/v2/ZZmtE4VuTG8kYco2inCiW.png?r=w9e&type=wide" width="652" alt="Durgesh Agrawal's Dev Card"/></a>
+
+<br>
+
 <h3 align="left">Connect with me:</h3>
+
 <p align="left">
 <a href="https://linkedin.com/in/supunnanayakkara" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="supunnanayakkara" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/9565088/supun-nanayakkara" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="supun-nanayakkara" height="30" width="40" /></a>
@@ -108,7 +114,7 @@
   
 <div align="center">
  <img align="center" src="https://github-trophies.vercel.app/?username=dmaster007&rank=SECRET,SSS,SS,S,AAA,AA&row=2&column=9&theme=gruvbox">
- [![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+ [![trophy](https://github-profile-trophy.vercel.app/?username=dmaster007&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
  </div>
 
 <!-- <div align="center">
@@ -125,9 +131,9 @@
 
 <p style="margin-right: 5px;">
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=dmaster007&show_icons=true&locale=en&layout=compact&theme=radical" alt="durgesh" /></p>
-<h3 align="left">My Contributions</h3>
 
-![Snake animation](https://github.com/dmaster007/dmaster007/blob/output/github-contribution-grid-snake-dark.svg)
+<p align="center">My Contributions</p>
+<img src="https://raw.githubusercontent.com/dmaster007/dmaster007/snake/github-snake-dark.svg" width="100%"><br>
 <!-- [![GitHub Streak](https://streak-stats.demolab.com/?user=supuna97&theme=midnight-purple)](https://git.io/streak-stats) -->
 </div>
 
@@ -144,7 +150,7 @@
 
 <h3 align="left">Achievements:</h3>
 
-[![An image of @supuna97's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/supuna97)](https://holopin.io/@supuna97)
+[![An image of @supuna97's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/hv789)](https://holopin.io/@dmaster007)
 <br><br><br>
 
 <!-- <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%"> -->
