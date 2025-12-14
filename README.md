@@ -131,7 +131,7 @@
 <!-- ![Supun's GitHub stats](https://github-readme-stats.vercel.app/api?username=dmaster007\&theme=midnight-purple\&show_icons=true\&show=reviews,prs_merged,prs_merged_percentage\&hide=contribs,issues) -->
 
 <p style="margin-right: 5px;">
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=dmaster007&show_icons=true&locale=en&theme=radical&langs_count=10" alt="durgesh" /></p>
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=dmaster007&show_icons=true&locale=en&layout=compact&theme=radical&langs_count=10" alt="durgesh" /></p>
 
 <h3 align="center" >Enjoy the snake crawl through my work</h3>
 
