@@ -48,9 +48,9 @@
 - ⚡ Fun fact **I think I'm funny**
 
 <br>
-
+<div align="center">
 <a href="https://app.daily.dev/dmmaster007"><img align="center" src="https://api.daily.dev/devcards/v2/ZZmtE4VuTG8kYco2inCiW.png?r=w9e&type=wide" width="652" alt="Durgesh Agrawal's Dev Card"/></a>
-
+</div>
 <br>
 
 <h3 align="left">Connect with me:</h3>
