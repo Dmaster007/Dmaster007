@@ -113,8 +113,9 @@
 <img src="https://media.tenor.com/0ENB5HuTH0gAAAAi/trophy-beker.gif"  width="100px" height="100px"></p>
   
 <div align="center">
- <img align="center" src="https://github-trophies.vercel.app/?username=dmaster007&rank=SECRET,SSS,SS,S,AAA,AA&row=2&column=9&theme=gruvbox">
- [![trophy](https://github-profile-trophy.vercel.app/?username=dmaster007&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+ <img align="center" src="https://github-trophies.vercel.app/?username=dmaster007&rank=SECRET,SSS,SS,S,AAA,AA&row=2&column=9&theme=onedark">
+  <img align="center" src="tps://github-profile-trophy.vercel.app/?username=ryo-ma&row=1&column=8">
+ <!-- [![trophy](https://github-profile-trophy.vercel.app/?username=dmaster007&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy) -->
  </div>
 
 <!-- <div align="center">
