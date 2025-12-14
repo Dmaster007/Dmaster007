@@ -125,9 +125,8 @@
 
 <p style="margin-right: 5px;">
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=dmaster007&show_icons=true&locale=en&layout=compact&theme=radical" alt="durgesh" /></p>
-
-<p align="center">My Contributions</p>
-<img src="https://raw.githubusercontent.com/dmaster007/dmaster007/snake/github-snake-dark.svg" width="100%"><br>
+<h3 align="left">My Contributions</h3>
+![Snake animation](https://github.com/dmaster007/dmaster007/blob/output/github-contribution-grid-snake.svg)
 <!-- [![GitHub Streak](https://streak-stats.demolab.com/?user=supuna97&theme=midnight-purple)](https://git.io/streak-stats) -->
 </div>
 
