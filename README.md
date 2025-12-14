@@ -107,7 +107,8 @@
 <img src="https://media.tenor.com/0ENB5HuTH0gAAAAi/trophy-beker.gif"  width="100px" height="100px"></p>
   
 <div align="center">
- <img src="https://github-trophies.vercel.app/?username=krishealty&rank=SECRET,SSS,SS,S,AAA,AA&row=2&column=9&theme=gruvbox">
+ <img align="center" src="https://github-trophies.vercel.app/?username=dmaster007&rank=SECRET,SSS,SS,S,AAA,AA&row=2&column=9&theme=gruvbox">
+ [![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
  </div>
 
 <!-- <div align="center">
@@ -128,7 +129,6 @@
 <p align="center">My Contributions</p>
 <img src="https://raw.githubusercontent.com/dmaster007/dmaster007/snake/github-snake-dark.svg" width="100%"><br>
 <!-- [![GitHub Streak](https://streak-stats.demolab.com/?user=supuna97&theme=midnight-purple)](https://git.io/streak-stats) -->
-
 </div>
 
 <br><br>
