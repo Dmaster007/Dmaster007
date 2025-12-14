@@ -107,15 +107,11 @@
 <img src="https://media.tenor.com/0ENB5HuTH0gAAAAi/trophy-beker.gif"  width="100px" height="100px"></p>
   
 <div align="center">
-<img src="[![trophy](https://github-profile-trophy.vercel.app/?username=dmaster007&theme=onedark)](https://github.com/dmaster007/github-profile-trophy)">
- </div>
+ <img src="https://github-trophies.vercel.app/?username=krishealty&rank=SECRET,SSS,SS,S,AAA,AA&row=2&column=9&theme=gruvbox">
+</div>
 
 <!-- <div align="center">
 <img src="https://github-profile-trophy.vercel.app/?username=dmaster007&theme=matrix&no-bg=true&no-frame=true&row=1&column=4&title=Repositories,Organizations,Stars,Followers"> -->
-<div align = "center">
-  <img src="https://github-trophies.vercel.app/?username=krishealty&rank=SECRET,SSS,SS,S,AAA,AA&row=2&column=9&theme=gruvbox">
-
-</div>
  </div>
  <br><br>
 
