@@ -108,7 +108,7 @@
   
 <div align="center">
  <img src="https://github-trophies.vercel.app/?username=krishealty&rank=SECRET,SSS,SS,S,AAA,AA&row=2&column=9&theme=gruvbox">
-</div>
+ </div>
 
 <!-- <div align="center">
 <img src="https://github-profile-trophy.vercel.app/?username=dmaster007&theme=matrix&no-bg=true&no-frame=true&row=1&column=4&title=Repositories,Organizations,Stars,Followers"> -->
@@ -120,10 +120,15 @@
 <h3 align="left">GitHub Stats:</h3>
 <div align="center">
  
-![Supun's GitHub stats](https://github-readme-stats.vercel.app/api?username=supuna97\&theme=midnight-purple\&show_icons=true\&show=reviews,prs_merged,prs_merged_percentage\&hide=contribs,issues)
+<!-- ![Supun's GitHub stats](https://github-readme-stats.vercel.app/api?username=dmaster007\&theme=midnight-purple\&show_icons=true\&show=reviews,prs_merged,prs_merged_percentage\&hide=contribs,issues) -->
 
+<p style="margin-right: 5px;">
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=dmaster007&show_icons=true&locale=en&layout=compact&theme=radical" alt="durgesh" /></p>
+
+<p align="center">My Contributions</p>
+<img src="https://raw.githubusercontent.com/dmaster007/dmaster007/snake/github-snake-dark.svg" width="100%"><br>
 <!-- [![GitHub Streak](https://streak-stats.demolab.com/?user=supuna97&theme=midnight-purple)](https://git.io/streak-stats) -->
-<img src="https://raw.githubusercontent.com/Ahtisham-1214/Ahtisham-1214/snake/github-snake-dark.svg" width="100%"><br>
+
 </div>
 
 <br><br>
@@ -147,4 +152,9 @@
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
 
 <br>
-<p align="right" > Created with 🧡 by <a href="http://supun.traditionalme.life">Supun Nanayakkara</a></p>
+<!-- <p align="right" > Created with 🧡 by <a href="http://supun.traditionalme.life">Durgesh Agrawal</a></p> -->
+<p align="right" > Created with 🧡 by Durgesh Agrawal</p>
+
+<p align="center">
+        <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" alt="Github Stats" />
+</p>
