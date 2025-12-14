@@ -131,9 +131,9 @@
 <!-- ![Supun's GitHub stats](https://github-readme-stats.vercel.app/api?username=dmaster007\&theme=midnight-purple\&show_icons=true\&show=reviews,prs_merged,prs_merged_percentage\&hide=contribs,issues) -->
 
 <p style="margin-right: 5px;">
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=dmaster007&show_icons=true&locale=en&layout=compact&theme=radical" alt="durgesh" /></p>
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=dmaster007&show_icons=true&locale=en&theme=radical&langs_count=10" alt="durgesh" /></p>
 
-<p align="center">My Contributions</p>
+<h3>My Contributions:</h3>
 <img src="https://raw.githubusercontent.com/dmaster007/dmaster007/snake/github-snake-dark.svg" width="100%"><br>
 <!-- [![GitHub Streak](https://streak-stats.demolab.com/?user=supuna97&theme=midnight-purple)](https://git.io/streak-stats) -->
 </div>
