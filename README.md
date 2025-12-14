@@ -112,6 +112,10 @@
 
 <!-- <div align="center">
 <img src="https://github-profile-trophy.vercel.app/?username=dmaster007&theme=matrix&no-bg=true&no-frame=true&row=1&column=4&title=Repositories,Organizations,Stars,Followers"> -->
+<div align = "center">
+  <img src="https://github-trophies.vercel.app/?username=krishealty&rank=SECRET,SSS,SS,S,AAA,AA&row=2&column=9&theme=gruvbox">
+
+</div>
  </div>
  <br><br>
 
